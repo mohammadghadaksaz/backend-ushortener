@@ -1,0 +1,15 @@
+{
+  "jwtSecret": "A_LONG_JWT_SECRET_KEY",
+	"externalHostname": "localhost",
+	"server": {
+		"hostname": "localhost",
+		"port": 8080
+	},
+	"mail": {
+		"hostname": "",
+		"port": 1234,
+		"username": "",
+		"password": "",
+		"senderDomain": ""
+	}
+}
